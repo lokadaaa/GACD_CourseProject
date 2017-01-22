@@ -1,7 +1,7 @@
-#Getting and Cleaning Data Final Project
-run.analysis.R script
+#Getting and Cleaning Data Final Project  
+run.analysis.R script  
 ====================================================================================================
-January 2017
+January 2017  
 L. Okada
 ====================================================================================================
 
@@ -18,4 +18,4 @@ The script performs the following operations:
 - Creates a second data set containing the average of each variable by activity and subject
 - Writes out this second data set to a text file named "GettingAndCleaningData_FinalProject_TidyData.txt"
 
-Descriptions of variables can be found in "Codebook.Md"
+Descriptions of variables can be found in "CodeBook.Md"

@@ -65,17 +65,16 @@ tBodyGyroJerkMean
   
 The six activities included for which these variables were measured are:   
 1. WALKING
-  
+
 2. WALKING_UPSTAIRS
-  
+
 3. WALKING_DOWNSTAIRS
-  
+
 4. SITTING
-  
-5. STANDING
-  
+
+5. STANDING 
 6. LAYING
-  
+
   
 There are 30 subjects (numbered 1-30) for which data was measured  
   
@@ -83,6 +82,7 @@ There are 30 subjects (numbered 1-30) for which data was measured
 Data files:  
 - X_test.txt		(measurement data for the test set)  
 - X_train.txt		(measurement data for the training set)  
+  
 Variable files:  
 - features.txt		(List of all measurement variables)  
 - activity_labels.txt 	(Activity descriptions corresponding to each activity label)  
