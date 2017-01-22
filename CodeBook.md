@@ -64,15 +64,12 @@ tBodyGyroMean
 tBodyGyroJerkMean  
   
 The six activities included for which these variables were measured are:  
-1. WALKING
-2. WALKING_UPSTAIRS
-3. WALKING_DOWNSTAIRS
-
-4. SITTING
-
-5. STANDING 
-6. LAYING
-
+1. WALKING  
+2. WALKING_UPSTAIRS  
+3. WALKING_DOWNSTAIRS  
+4. SITTING  
+5. STANDING  
+6. LAYING  
   
 There are 30 subjects (numbered 1-30) for which data was measured  
   
