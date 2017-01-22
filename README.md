@@ -1,9 +1,10 @@
 #Getting and Cleaning Data Final Project  
+
 run.analysis.R script  
-====================================================================================================
+
 January 2017  
 L. Okada
-====================================================================================================
+
 
 This script is for analysis of the data collected from the accelerometers from the Samsung Galaxy S 
 smartphone. The full data set may be found [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
